@@ -21,6 +21,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/layout.tsx", "app/home/kanban/page.jsx", "app/page.tsx", "components/example/apple-cards-carousel-demo.jsx", "components/ui/apple-cards-carousel.tsx"],
   "exclude": ["node_modules"]
 }
